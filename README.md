@@ -1,0 +1,4 @@
+# VokseDigital-Employee-Trunover-Prediction
+
+Employee turnover is a cause of concern for most organizations. It leads to uncertainty in operations, delay in projects and added expenses in training new employees. Organizations are looking for proactive measures to manage the uncertainty of employee turnovers. Data science can prove to be a game changer if implemented well. We have past dataset from an organization about various aspects of employees and we know that some of them exited. Based on these factors, you are expected to build a model and make predictions for current set of employees whether any of them are likely to leave.
+This prediction can prove to be extremely helpful for the organization. If the organization can get a fair understanding of which employees are on the verge of leaving, it can take remedial actions. 
